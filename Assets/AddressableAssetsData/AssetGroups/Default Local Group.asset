@@ -1,0 +1,241 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 969c215112249934caaf120c144f6742
+  m_SerializeEntries:
+  - m_GUID: 21753cb1fe6216c48888547bf773b0fc
+    m_Address: Assets/Sprites/CardsPack/Back.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 93122cf98db1e3a4ea19dd62a8c5dfa7
+    m_Address: Assets/Sprites/CardsPack/Clubs2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b4da719e771b0db47aaa0f16fdead71f
+    m_Address: Assets/Sprites/CardsPack/Clubs3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 92542811789d0f747ae5072f91ea2bd1
+    m_Address: Assets/Sprites/CardsPack/Clubs4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a9021a24d714fd4d86dab4b9aaed135
+    m_Address: Assets/Sprites/CardsPack/Clubs5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a6412bb7c6e7c6d42a4addf74c036e8a
+    m_Address: Assets/Sprites/CardsPack/Clubs6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 184aa753fb5f93d4f873eb3ac025aba6
+    m_Address: Assets/Sprites/CardsPack/Clubs7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ecc706fd02cd926479041ffebff41e85
+    m_Address: Assets/Sprites/CardsPack/Clubs8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea3390a0e81dba441b530334e9b0df2f
+    m_Address: Assets/Sprites/CardsPack/Clubs9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5afa9c9e6aeb7994aafab1245547c110
+    m_Address: Assets/Sprites/CardsPack/ClubsA.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 728410be135fed7419bf631df29c7e98
+    m_Address: Assets/Sprites/CardsPack/ClubsJ.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 80ed84088cab0804ab346ebee5042443
+    m_Address: Assets/Sprites/CardsPack/ClubsK.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c0d5b6ec67c7c154a9e5f227ba4aa27f
+    m_Address: Assets/Sprites/CardsPack/ClubsQ.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6bd5907b17dfc374086132943e0f8e74
+    m_Address: Assets/Sprites/CardsPack/ClubsT.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 63f315d0a505e684d890fef92201ca92
+    m_Address: Assets/Sprites/CardsPack/Diamonds3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2d9a0ddb431e7974b80a7668f2939952
+    m_Address: Assets/Sprites/CardsPack/Diamonds4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2fff683b6bbfa394493ee712dfa3ee6f
+    m_Address: Assets/Sprites/CardsPack/Diamonds5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e23903b0fc2e7a64c90e59d491a4e558
+    m_Address: Assets/Sprites/CardsPack/Diamonds6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b8a6ec3ccabe3a449ced0b2adc43358
+    m_Address: Assets/Sprites/CardsPack/Diamonds7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c486590d6216b8f49b72110af724d4c5
+    m_Address: Assets/Sprites/CardsPack/Diamonds8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 92a3e80c8bb0c2245b96fcdfdb37542b
+    m_Address: Assets/Sprites/CardsPack/Diamonds9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b895d320089b7547b7e86829c90b43c
+    m_Address: Assets/Sprites/CardsPack/DiamondsA.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 76cf06b3250959940b33f0e41003188f
+    m_Address: Assets/Sprites/CardsPack/DiamondsJ.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e3ba37099cca2b64e848a39a4b69674d
+    m_Address: Assets/Sprites/CardsPack/DiamondsK.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ecc5a44f3897bfa4e82d09371801c2ec
+    m_Address: Assets/Sprites/CardsPack/DiamondsQ.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 84564ec0595f1384985530062b7ad4c3
+    m_Address: Assets/Sprites/CardsPack/DiamondsT.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c2161d4cddf94f94eab29e01991e7efc
+    m_Address: Assets/Sprites/CardsPack/Hearts2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1de070859116bb74782318b9ebf20510
+    m_Address: Assets/Sprites/CardsPack/Hearts3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5087f4423b658fd4097a903190391ee8
+    m_Address: Assets/Sprites/CardsPack/Hearts4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4307d98bdbe8e494192ae2e656723611
+    m_Address: Assets/Sprites/CardsPack/Hearts5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 384d82d3ad07c2a4887fbc8942c0aeb4
+    m_Address: Assets/Sprites/CardsPack/Hearts6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 663e5ac2d64a5f84485061ee9b9ffb5d
+    m_Address: Assets/Sprites/CardsPack/Hearts7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1c380edd4a99b2646b1c1ed9dd159847
+    m_Address: Assets/Sprites/CardsPack/Hearts8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4fdd57a45646d4048b432b963f3f0517
+    m_Address: Assets/Sprites/CardsPack/Hearts9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37379fe7030e8e0419562bc784098d67
+    m_Address: Assets/Sprites/CardsPack/HeartsA.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 027c84e7c689ec34680ee133a2a28c66
+    m_Address: Assets/Sprites/CardsPack/HeartsJ.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9b1496103dbade248a0397df05a306ca
+    m_Address: Assets/Sprites/CardsPack/HeartsK.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e218bf487d1f0864a9ead7aa0dae98f3
+    m_Address: Assets/Sprites/CardsPack/HeartsQ.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea78462c5c12ee6499de7c9a20fb7a7f
+    m_Address: Assets/Sprites/CardsPack/HeartsT.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 732b5c9dbbb9203498fcac89052732c3
+    m_Address: Assets/Sprites/CardsPack/Spades2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 78ac1d6d95de5f94bb4c8d8f138abebb
+    m_Address: Assets/Sprites/CardsPack/Spades3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8d83ebadf7584de45b51723a99e56984
+    m_Address: Assets/Sprites/CardsPack/Spades4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b16f3aac15e99324b88c60fb5e308877
+    m_Address: Assets/Sprites/CardsPack/Spades5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e94b0c5e0e3aaa6418e070d1104929af
+    m_Address: Assets/Sprites/CardsPack/Spades6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea6a34dc9c3a37f4180a1993c15070d0
+    m_Address: Assets/Sprites/CardsPack/Spades7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c2e024c9ebb4b124ea2930903312abbe
+    m_Address: Assets/Sprites/CardsPack/Spades8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0589d12f574a5dc4f9ef7dc43c2ac39f
+    m_Address: Assets/Sprites/CardsPack/Spades9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 57c759608a94ea34c967c936c8983658
+    m_Address: Assets/Sprites/CardsPack/SpadesA.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1d7cbde84f698b64cb5535fbca4b7f36
+    m_Address: Assets/Sprites/CardsPack/SpadesJ.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 129d7a9296f202549b224117ff2cd909
+    m_Address: Assets/Sprites/CardsPack/SpadesK.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c003a7a72997f93499084b4ed29dec08
+    m_Address: Assets/Sprites/CardsPack/SpadesQ.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cf30b2c05cb76424fa93ed936756b89c
+    m_Address: Assets/Sprites/CardsPack/SpadesT.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9de272443ab839645b12132e1aac886d
+    m_Address: Assets/Sprites/CardsPack/Diamonds2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5f34000fa70204b128543e7d7990b3db
+    m_Address: Assets/Audio/MainMixer.mixer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ca1d34cfcc52b9147af04f7d603a5f16, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d3b315c5e6e7bfc42a9a6c3fd78d87ce, type: 2}
+    - {fileID: 11400000, guid: 519f87e58f949294c971341147866f3b, type: 2}
