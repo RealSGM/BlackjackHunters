@@ -1,4 +1,4 @@
-# test-game
+# Blackjack Hunters
 1.2.8.1
 -Added images to display army
 
@@ -28,10 +28,6 @@ Started working on the UX navigation between scenes
 
 1.2.0
 Started coin flip minigame
-
-1.1.1
-Added assets:
-- King's Shield Pack
 
 1.1.0
 Added assets:
